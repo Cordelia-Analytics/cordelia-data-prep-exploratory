@@ -1,7 +1,7 @@
 ## Hi, I'm Cordelia 👋
 📈Data Analyst | Business Intelligence | Project Management
 
-📊 Skilled in Tableau, Power BI, Python, SQL
+📊 Skilled in Tableau, Power BI, Python, SQL, Excel
 
 ## Project 1
 ### Heart Disease Risk Analysis
