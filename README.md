@@ -12,6 +12,7 @@ Identify key factors contributing to heart disease risk and understand how patie
 #### Data
 ##### Source:  
 UCI Heart Disease Dataset/Kaggle
+
 https://www.kaggle.com/datasets/arezaei81/heartcsv
 ##### Description: 
 303 patient records including Age, Cholesterol, Chest Pain Type, Max Heart Rate, and Heart Disease (Target).
@@ -23,10 +24,13 @@ Tableau - KPI cards, Bar charts, Scatter plot, Box and Whisker chart, demographi
 
 ##### Insights:
 Highest risk observed in ages 40–55
+
 Chest pain type is a strong indicator of heart disease
+
 Cholesterol alone is not sufficient to predict risk
 #### Limitations
 Small dataset size
+
 Missing lifestyle and medical history variables
 #### Outcome
 Yes, the project effectively identified key risk factors and demonstrated meaningful patterns in heart disease occurrence.
