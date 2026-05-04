@@ -4,7 +4,8 @@
 📊 Skilled in Tableau, Power BI, Python, SQL, Excel
 
 ## Project 1
-### Heart Disease Risk Analysis
+### Exploratory Analysis of Heart Disease Risk by Age, Gender, and Clinical Indicators
+
 #### Problem Statement
 
 Identify key factors contributing to heart disease risk and understand how patient demographics, gender and clinical indicators influence disease occurrence.
