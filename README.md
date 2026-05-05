@@ -12,7 +12,7 @@ Identify key factors contributing to heart disease risk and understand how patie
 
 #### Data
 ##### Source:  
-UCI Heart Disease Dataset/Kaggle:
+UCI Heart Disease Dataset/Kaggle
 
 https://www.kaggle.com/datasets/arezaei81/heartcsv
 ##### Description: 
@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/arezaei81/heartcsv
 ##### Data Visualizations: 
 Tableau - Bar charts, Scatter plot, Box and Whisker chart, demographic breakdown
 ##### Worksheets:
- <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/117b7fb0-437a-4829-97a8-2b7046e77526" /><img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/4a12d7aa-0f4f-495c-abf4-b6adcf438936" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/b9de47aa-431d-461d-a240-6ea8352cdb1c" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/518724ab-425a-4eee-b977-4d441673d89b" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/1b3fe259-93d7-4f34-b6d3-22fdba9cf0ae" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/6c61ec4c-aa8c-4e2e-977b-34fe316ce3c4" />
+<img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/117b7fb0-437a-4829-97a8-2b7046e77526" /><img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/4a12d7aa-0f4f-495c-abf4-b6adcf438936" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/b9de47aa-431d-461d-a240-6ea8352cdb1c" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/518724ab-425a-4eee-b977-4d441673d89b" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/1b3fe259-93d7-4f34-b6d3-22fdba9cf0ae" /> <img width="905" height="700" alt="image" src="https://github.com/user-attachments/assets/6c61ec4c-aa8c-4e2e-977b-34fe316ce3c4" />
 
 ##### Data Insights:
 Highest risk observed in ages 40–55
